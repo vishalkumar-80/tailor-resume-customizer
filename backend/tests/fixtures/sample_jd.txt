@@ -1,0 +1,18 @@
+Full Stack Engineer (AI Products) - Lumen Labs
+
+We're hiring a Full Stack Engineer to build AI-powered features for our B2B SaaS platform.
+
+Responsibilities:
+- Build responsive user interfaces with React, Next.js and TypeScript.
+- Design and ship REST APIs and microservices in Python (FastAPI) and Node.js.
+- Integrate LLM APIs (OpenAI, Gemini) including prompt engineering and RAG pipelines with vector databases.
+- Own CI/CD pipelines with GitHub Actions; deploy containerized services with Docker and Kubernetes on AWS.
+- Write automated tests and champion code quality through code reviews.
+- Monitor performance and reliability in production.
+
+Requirements:
+- 3+ years of professional full stack experience.
+- Strong JavaScript/TypeScript and Python.
+- Experience with PostgreSQL and Redis.
+- Familiarity with Agile/Scrum.
+Nice to have: Tailwind CSS, GraphQL, observability tools (Datadog).
